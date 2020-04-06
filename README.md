@@ -1,2 +1,2 @@
 # vulcan-l
-pagina vulcan
+ vulcan log
